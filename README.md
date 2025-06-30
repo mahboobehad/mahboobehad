@@ -4,9 +4,9 @@ It’s me, Mahboobe (Persian: محبوبه). I’m a computer engineer by traini
 
 When I am not busy with software development,  I read textbooks in computer science and sometimes economics. 
 
-Compared to all other communications methods, I respond to emails much more faster. 
+Compared to all other communication methods, I respond to emails much more faster. 
 
-📫 mahboobe.haddadi(at)gmail
+📫 mahboobe.haddadi(at)gmail.com
 <!--
 **mahboobehad/mahboobehad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
