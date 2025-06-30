@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi 
 
+It’s me, Mahboobe (Persian: محبوبه). I’m a computer engineer by training and a software engineer by day.
+
+When I am not busy with software development,  I read textbooks in computer science and sometimes economics.
 <!--
 **mahboobehad/mahboobehad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
