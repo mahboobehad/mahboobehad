@@ -1,6 +1,6 @@
 ## Hi!
 
-It’s me, Mahboobe (Persian: محبوبه). I’m a computer engineer by training and used to be a SWE by day and night. These days, I'm working toward a PhD degree in software engineering.
+It’s me, Mahboobe (Persian: محبوبه). I’m a computer engineer by training and used to be a SWE by day and night. These days, I'm working toward a PhD degree in Software Engineering.
 
 Compared to all other communication methods, I always prefer reading and writing emails. 
 
