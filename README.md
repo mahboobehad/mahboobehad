@@ -1,10 +1,8 @@
 ## Hi!
 
-It’s me, Mahboobe (Persian: محبوبه). I’m a computer engineer by training and a software engineer by day and night.
+It’s me, Mahboobe (Persian: محبوبه). I’m a computer engineer by training and used to be a SWE by day and night. These days, I'm working toward a PhD degree in software engineering.
 
-When I am not busy with software development,  I read textbooks in computer science and sometimes economics. 
-
-Compared to all other communication methods, I respond to emails much more faster. 
+Compared to all other communication methods, I always prefer reading and writing emails. 
 
 📫 mahboobe.haddadi(at)gmail.com
 <!--
